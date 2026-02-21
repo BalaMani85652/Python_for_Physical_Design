@@ -1,0 +1,13 @@
+Timing Report
+----------------------
+Path: clk_reg1_to_reg2 
+Slack: 0.12
+
+Path: clk_reg3_to_reg4 
+Slack: -0.08
+
+Path: clk_mem_to_reg   
+Slack: -0.35
+
+Path: clk_reg_to_out   
+Slack: 0.05

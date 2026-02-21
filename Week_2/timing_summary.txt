@@ -1,0 +1,6 @@
+------ Timing Summary ------
+Total Violations : 2
+Worst Slack : -0.35
+Average Slack : -0.215
+-----------------------------
+Gnerated on:2026-02-06 12:25:19.702667

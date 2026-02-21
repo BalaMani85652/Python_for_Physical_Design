@@ -1,0 +1,6 @@
+------Timing Summary-----
+Total violations:2
+Worst slack:-0.35
+Best slack:-0.08
+clk_mem_to_reg,-0.35
+clk_reg3_to_reg4,-0.08
